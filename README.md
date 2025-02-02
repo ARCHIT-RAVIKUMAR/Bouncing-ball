@@ -1,2 +1,4 @@
 # Bouncing-ball
-Adding features to Bouncing Balls
+Adding features to Bouncing Balls using Java.  
+
+Refer=> https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Adding_bouncing_balls_features
